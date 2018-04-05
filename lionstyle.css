@@ -1,0 +1,77 @@
+@font-face { font-family: 'GyeonggiBatang'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/GyeonggiBatang.woff') 
+format('woff'); font-weight: normal; font-style: normal; } 
+@font-face { font-family: 'LeeHyunJi'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_two@1.0/LeeHyunJi.woff') format('woff'); 
+font-weight: normal; font-style: normal; } 
+@font-face { font-family: 'GyeonggiBatang'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/GyeonggiBatang.woff') format('woff'); 
+font-weight: normal; font-style: normal; } 
+
+.btn.btn-primary, .btn.btn-success, .btn.btn-warning{
+    font-size: 15px;
+    float: right;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+h1{
+    text-align: left;
+}
+
+h2{
+    padding-top: 100px;
+}
+
+nav{
+    height: 70px;
+}
+
+p{
+    margin: 0px;
+    word-break: break-all;
+}
+
+.container10{
+    margin: auto;
+    width: 960px;
+    text-align: center;
+}
+
+header{
+    background-image: url("http://cfile30.uf.tistory.com/image/227FB539573C3298277F04");
+    height: 600px;
+    background-size: 100% 100%;
+    opacity: 0.6;
+}
+
+#content{
+    padding-top: 100px;
+    font-size: 18px;
+    color: green;
+}
+
+img{
+    width: 310px;
+    height: 310px;
+}
+
+footer{
+    background-color: black;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+#last{
+    color: white;
+}
+
+#H2{
+    font-family: "GyeonggiBatang";
+    color: PINK;
+}
+
+#H1{
+    padding-top: 10px;
+}
+
+#SECTION{
+	margin-top: 50px;
+}
